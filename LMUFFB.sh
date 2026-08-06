@@ -7,5 +7,5 @@ export WINEDEBUG="-all" # Limita textos innecesarios en la terminal
 
 echo "Arrancando herramientas para Le Mans Ultimate..."
 
-# 2. Lanzamos CrewChief usando el Wine directo en segundo plano (&)
+# 2. Lanzamos LMUFFB usando el Wine directo en segundo plano (&)
 "$PROTON_PATH/files/bin/wine" "$STEAM_COMPAT_DATA_PATH/pfx/drive_c/LMUFFB/LMUFFB.exe" &
