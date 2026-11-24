@@ -4,6 +4,22 @@
 
 ---
 
+## ⚠️ Aviso importante / Important Notice
+
+### 🇪🇸 Español
+
+Los métodos de instalación y configuración manual de **LMUFFB** descritos en estas guías siguen siendo funcionales. Sin embargo, actualmente recomiendo utilizar **[ETOL (Easy Telemetry on Linux)](https://github.com/pabeernosmatao/ETOL-Easy-Telemetry-on-Linux)**, que incluye **FFB-HUB (LMUFFB)** como aplicación opcional: instala y actualiza la última versión de LMUFFB en su botella, la lanza manualmente o junto con Le Mans Ultimate y, si lo necesitas, también prepara SimHub y CrewChief.
+
+Por tanto, puedes seguir utilizando las instrucciones de instalación manual de este repositorio o recurrir a **[ETOL](https://github.com/pabeernosmatao/ETOL-Easy-Telemetry-on-Linux)** como alternativa recomendada.
+
+### 🇬🇧 English
+
+The manual installation and configuration methods for **LMUFFB** described in these guides are still functional. However, I now recommend using **[ETOL (Easy Telemetry on Linux)](https://github.com/pabeernosmatao/ETOL-Easy-Telemetry-on-Linux)**, which includes **FFB-HUB (LMUFFB)** as an optional app: it installs and updates the latest LMUFFB release in its bottle, launches it manually or together with Le Mans Ultimate and, if needed, also sets up SimHub and CrewChief.
+
+You can therefore continue using the manual installation instructions in this repository or use **[ETOL](https://github.com/pabeernosmatao/ETOL-Easy-Telemetry-on-Linux)** as the recommended alternative.
+
+---
+
 # 🇪🇸 Español
 
 ## ¿Qué encontrarás en esta carpeta?
